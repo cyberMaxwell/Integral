@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Integral\Integral\bin\Debug\Integral.exe.config
+C:\Users\user\source\repos\Integral\Integral\bin\Debug\Integral.exe
+C:\Users\user\source\repos\Integral\Integral\bin\Debug\Integral.pdb
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.Form1.resources
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.Properties.Resources.resources
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.exe
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.pdb
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Integral\Integral\obj\Debug\Integral.About.resources
